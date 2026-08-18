@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# vídeo antigo grande demais (288MB)
+public/refine.mp4
+
+# arquivos originais com espaço (duplicatas das versões renomeadas)
+public/Logotipo MYL Barber Clinic 2025-07.jpg
+public/Roupa Barbeiro 01.jpg
+public/video myl vertical.mp4
+
+# manual de marca (não vai pra produção)
+Manual de marca/
+
+# script utilitário
+remove-bg.mjs
